@@ -1,2 +1,2 @@
 # Javascript-APIs
-learning to work with apis in javascript
+working with apis in javascript
